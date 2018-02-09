@@ -1,0 +1,41 @@
+{
+  "name": "dapp-styles",
+  "namespace": "wiseplat",
+  "version": "0.5.6",
+  "description": "CSS/LESS framework for dapps",
+  "directories": {
+    "lib": "./"
+  },
+  "devDependencies": {
+    "gulp": ">=3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-replace": "^0.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wiseplat/dapp-styles.git"
+  },
+  "homepage": "https://github.com/wiseplat/dapp-styles",
+  "bugs": {
+    "url": "https://github.com/wiseplat/dapp-styles/issues"
+  },
+  "keywords": [
+    "wiseplat",
+    "dapp",
+    "styles"
+  ],
+  "author": "ethdev.com",
+  "authors": [
+    {
+      "name": "Alex van de Sande",
+      "email": "avsa@wiseplat.org",
+      "homepage": "https://github.com/alexvandesande"
+    },
+    {
+      "name": "Fabian Vogelsteller",
+      "email": "fabian@ethdev.com",
+      "homepage": "http://frozeman.de"
+    }
+  ],
+  "license": "MIST"
+}
